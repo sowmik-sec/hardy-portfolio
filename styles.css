@@ -147,3 +147,28 @@ li {
 .what-i-do {
   margin-top: 360px;
 }
+.skills {
+  display: flex;
+  justify-content: space-between;
+  width: 1140px;
+  margin: 50px auto;
+}
+.icon-img {
+  width: 44px;
+  height: 44px;
+  padding: 20px 20px 0 20px;
+}
+.skill-mt {
+  margin-top: 30px;
+}
+.box-inside {
+  width: 204px;
+  height: 243px;
+  padding: 20px;
+}
+.skill-box {
+  box-shadow: 0 0 10px 0 gray;
+  width: 267px;
+  height: 377px;
+  border-radius: 5px;
+}
