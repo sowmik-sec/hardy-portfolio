@@ -1,0 +1,116 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.banner {
+  display: flex;
+}
+.developer-img {
+  height: 774px;
+  width: 136px;
+  margin: 10px 50px 10px 10px;
+}
+.developer-banner {
+  background-color: #fff8f3;
+  width: 100%;
+  margin-top: 10px;
+}
+.developer-full-name {
+  font-size: 40px;
+}
+.developer-name {
+  color: #fd6e0a;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 50px;
+}
+.navbar,
+li {
+  list-style: none;
+}
+.navlink {
+  display: flex;
+  align-items: center;
+  margin-right: 200px;
+}
+.navlink > li > a {
+  color: #1e1e1e;
+  margin-left: 20px;
+  text-decoration: none;
+}
+.btn-hire {
+  background-color: #fd6e0a;
+  padding: 10px 20px;
+  color: white;
+  border: 0;
+  border-radius: 5px;
+  font-weight: 700;
+}
+.hardy-banner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+}
+.hardy-info {
+  width: 585px;
+  height: 356px;
+}
+.text-xl {
+  font-size: 40px;
+}
+.text-3xl {
+  font-size: 85px;
+}
+.btn-download-contact {
+  display: flex;
+}
+.btn-download-img {
+  width: 24px;
+  height: 24px;
+  color: white;
+}
+.btn-download {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #fd6e0a;
+  color: white;
+  border: 0;
+  border-radius: 5px;
+  padding: 10px;
+  margin-right: 30px;
+}
+.btn-call {
+  width: 24px;
+  height: 24px;
+}
+.btn-contact {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #fff8f3;
+  color: #fd6e0a;
+  border: 1px solid #fd6e0a;
+  border-radius: 5px;
+  padding: 10px;
+}
+.hardy-img {
+  background-image: url("images/header_bg.png");
+  background-repeat: no-repeat;
+  width: 1036px;
+  height: 518px;
+  position: absolute;
+  right: -200px;
+  bottom: -325px;
+}
+.hardy-pro-img {
+  width: 584px;
+  height: 676px;
+  position: absolute;
+  bottom: 0;
+  right: 250px;
+}
