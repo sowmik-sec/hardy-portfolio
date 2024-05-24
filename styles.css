@@ -114,3 +114,36 @@ li {
   bottom: 0;
   right: 250px;
 }
+.what-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.about-header {
+  text-align: center;
+  margin: 200px auto 15px;
+}
+.about-me {
+  text-align: center;
+  margin: 0 auto;
+  background-color: #fff8f3;
+  width: 1140px;
+  height: 550px;
+}
+.about-text {
+  color: #757575;
+  width: 827px;
+  text-align: center;
+  margin: 20px auto;
+}
+.dark-3 {
+  color: #757575;
+}
+.contact-info {
+  display: flex;
+  justify-content: space-around;
+}
+.what-i-do {
+  margin-top: 360px;
+}
