@@ -172,3 +172,33 @@ li {
   height: 377px;
   border-radius: 5px;
 }
+.summary {
+  text-align: center;
+  margin: 100px auto;
+}
+.summary-section {
+  display: flex;
+  justify-content: space-between;
+  width: 1140px;
+  margin: 30px auto;
+}
+.summary-box {
+  width: 511px;
+  height: 175px;
+}
+hr {
+  width: 558px;
+}
+.last-summary {
+  display: flex;
+  justify-content: flex-start;
+}
+.last-skill {
+  margin-left: 72px;
+}
+.download-cv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 100px;
+}
