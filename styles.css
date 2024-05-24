@@ -202,3 +202,39 @@ hr {
   justify-content: center;
   margin-bottom: 100px;
 }
+footer {
+  background-color: #fff8f3;
+  display: flex;
+  height: 780px;
+  align-items: center;
+  justify-content: center;
+}
+footer > div > p {
+  width: 562px;
+}
+.input-field {
+  display: block;
+  padding: 15px 20px;
+  border: 0;
+  margin-bottom: 20px;
+  width: 400px;
+  border-radius: 5px;
+}
+textarea {
+  border: 0;
+  padding: 15px 20px;
+}
+.btn-submit {
+  background-color: #fd6e0a;
+  color: white;
+  font-weight: 500;
+  padding: 10px 20px;
+  border: 0;
+  border-radius: 5px;
+  display: block;
+  margin-top: 20px;
+}
+
+button:hover {
+  cursor: pointer;
+}
